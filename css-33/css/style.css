@@ -1,0 +1,31 @@
+.some-text {
+    font-family: "Playfair Display", "Arial", sans-serif;
+    font-size: 40px;
+    line-height: 100px;
+    text-align: left;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.listen {
+    font-weight: 700;
+    text-decoration: dashed;
+    text-transform: uppercase;
+}
+
+.firstPart{
+    letter-spacing: 2px;
+    word-spacing: 10px;
+
+}
+
+.secondPart
+{
+    text-indent: 40px;
+    text-shadow: 0 0 0 #000;
+    text-shadow: none;
+}
+
+.red_text{
+    text-indent: 40px;
+}
