@@ -1,7 +1,7 @@
 .some-text {
-    font-family: "Playfair Display", "Arial", sans-serif;
-    font-size: 40px;
-    line-height: 100px;
+    font-family: "Open Sans", "Arial", sans-serif;
+    font-size: 20px;
+    line-height: 30px;
     text-align: left;
     font-weight: 300;
     font-style: italic;
@@ -9,23 +9,28 @@
 
 .listen {
     font-weight: 700;
-    text-decoration: dashed;
-    text-transform: uppercase;
 }
 
-.firstPart{
+.firstPart {
     letter-spacing: 2px;
-    word-spacing: 10px;
-
 }
 
-.secondPart
-{
-    text-indent: 40px;
-    text-shadow: 0 0 0 #000;
-    text-shadow: none;
+.subpart1 {
+    text-decoration: line-through;
 }
 
-.red_text{
-    text-indent: 40px;
+.subpart2 {
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.subpart3 {
+    text-indent: 30px;
+    text-decoration: overline;
+    text-decoration-style: wavy;
+}
+
+.secondPart {
+    word-spacing: 5px;
+    text-decoration: underline;
 }
