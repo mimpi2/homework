@@ -1,0 +1,16 @@
+body {
+    font-size: 40px;
+}
+
+.block {
+    background: rgba(59, 39, 39, 0.826);
+    border-radius: 10%;
+    box-shadow: inset 4px 4px 6px #000;
+    overflow: auto;
+    width: 150px;
+    height: 120px;
+    padding: 20px;
+    margin: 30px;
+    display:inline-block;
+    font-size: 10px;
+}
