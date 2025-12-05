@@ -1,0 +1,11 @@
+table, caption, td, th {
+   border: 1px solid #000; 
+   font-family: sans-serif;
+   border-spacing: 0px;
+   border-collapse: collapse;
+
+}
+
+.red {
+    color: red;
+}
